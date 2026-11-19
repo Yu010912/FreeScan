@@ -1,0 +1,5 @@
+PySide6==6.10.3
+opencv-python-headless==5.1.0.95
+numpy==2.0.2
+Pillow==11.3.0
+pillow-heif==1.1.1
